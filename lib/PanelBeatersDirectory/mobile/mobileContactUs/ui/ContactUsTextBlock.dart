@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:webdirectories/WebDirectories/Mobile/MobilePage6/MessageUsMobile/MessageUsMobimeComponent/ImNotaRobot.dart';
-import 'package:webdirectories/WebDirectories/Mobile/MobilePage6/MessageUsMobile/MessageUsMobimeComponent/MessageUsTextFieldMobile.dart';
+import 'package:webdirectories/PanelBeatersDirectory/mobile/components/MessageUsMobimeComponent/ImNotaRobot.dart';
+import 'package:webdirectories/PanelBeatersDirectory/mobile/components/MessageUsMobimeComponent/MessageUsTextFieldMobile.dart';
 import 'package:webdirectories/myutility.dart';
 
 class ContactUsTextBlock extends StatefulWidget {

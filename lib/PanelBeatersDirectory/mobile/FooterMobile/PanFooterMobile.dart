@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:go_router/go_router.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:webdirectories/WebDirectories/Mobile/FooterMobile/FooterMobileComponents/FooterMobileTextButton.dart';
+import 'package:webdirectories/PanelBeatersDirectory/mobile/components/FooterMobileComponents/FooterMobileTextButton.dart';
 import 'package:webdirectories/myutility.dart';
 import 'package:webdirectories/routes/routerNames.dart';
 

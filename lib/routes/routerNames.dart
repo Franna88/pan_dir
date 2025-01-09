@@ -40,4 +40,5 @@ class Routernames {
   static const String panelbeatersAdminPortal = 'panel-beaters-admin-portal';
   static const String panelbeatersOwnersPortal = 'panel-beaters-owners-portal';
   static const String panelbeatersContactUs = 'panel-beaters-contact-us';
+  static const String panelbeatersDisclaimer = 'panel-beaters-disclaimer';
 }

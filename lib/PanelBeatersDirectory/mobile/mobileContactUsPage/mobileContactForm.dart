@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/components/descriptionDialog.dart';
 import 'package:webdirectories/PanelBeatersDirectory/emails/getInTouch/sendGetInTouch.dart';
-import 'package:webdirectories/WebDirectories/Mobile/MobilePage6/MessageUsMobile/MessageUsMobimeComponent/ImNotaRobot.dart';
-import 'package:webdirectories/WebDirectories/Mobile/MobilePage6/MessageUsMobile/MessageUsMobimeComponent/MessageUsTextFieldMobile.dart';
-import 'package:webdirectories/WebDirectories/Page3/OurStory/OurSotryComponents/OvalTextButton.dart';
-import 'package:webdirectories/WebDirectories/Page7/GetinTouch/GetinTouchComponents/TextFormField.dart';
+import 'package:webdirectories/PanelBeatersDirectory/mobile/components/MessageUsMobimeComponent/ImNotaRobot.dart';
+import 'package:webdirectories/PanelBeatersDirectory/mobile/components/MessageUsMobimeComponent/MessageUsTextFieldMobile.dart';
 import 'package:webdirectories/myutility.dart';
 
 class MobileContactForm extends StatefulWidget {

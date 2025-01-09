@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/OwnersPortal/loginPages/ui/longOrangeButton.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/OwnersPortal/loginPages/ui/mediumTextBox.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/OwnersPortal/loginPages/ui/numberProgressBar.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/OwnersPortal/loginPages/ui/progressBarNumbers.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/OwnersPortal/loginPages/ui/smallCheckBox.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/OwnersPortal/loginPages/ui/smallTextBox.dart';
-import 'package:webdirectories/WebDirectories/Page2/Page2.dart';
+import 'package:webdirectories/PanelBeatersDirectory/desktop/websiteDisclaimer/WebsiteDisclaimer.dart';
+import 'package:webdirectories/routes/routerConfig.dart';
+import 'package:webdirectories/routes/routerNames.dart';
 
 import '../../../navPage/nav.dart';
 
@@ -212,13 +215,7 @@ class _RegisterYourBusinessState extends State<RegisterYourBusiness> {
                 changeCheckboxValue: changeCheckboxValue),
             TextButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => Material(
-                              child: Page2(),
-                            )));
-                //ADD LOGIC HERE
+                context.goNamed(Routernames.panelbeatersDisclaimer);
               },
               child: Padding(
                 padding:

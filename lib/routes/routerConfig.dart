@@ -7,6 +7,7 @@ import 'package:webdirectories/PanelBeatersDirectory/desktop/Services/ServicesBy
 import 'package:webdirectories/PanelBeatersDirectory/desktop/Services/services.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/navPage/nav.dart';
 import 'package:webdirectories/PanelBeatersDirectory/desktop/navPage/navBar.dart';
+import 'package:webdirectories/PanelBeatersDirectory/desktop/websiteDisclaimer/WebsiteDisclaimer.dart';
 import 'package:webdirectories/PanelBeatersDirectory/panelBeatersHome.dart';
 import 'package:webdirectories/SuperAdmin/superAdmin.dart';
 import 'package:webdirectories/routes/routerNames.dart';
@@ -243,6 +244,13 @@ class Routerconfig {
               name: Routernames.panelbeatersContactUs,
               builder: (BuildContext context, GoRouterState state) => Material(
                 child: ContactUsMainPage(),
+              ),
+            ),
+            GoRoute(
+              path: 'disclaimer',
+              name: Routernames.panelbeatersDisclaimer,
+              builder: (BuildContext context, GoRouterState state) => Material(
+                child: WebsiteDisclaimer(),
               ),
             ),
           ],

@@ -12,7 +12,6 @@ import 'package:webdirectories/PanelBeatersDirectory/desktop/Services/services.d
 import 'package:webdirectories/PanelBeatersDirectory/desktop/components/descriptionDialog.dart';
 import 'package:webdirectories/PanelBeatersDirectory/models/jobFinder.dart';
 import 'package:webdirectories/PanelBeatersDirectory/models/notifications.dart';
-import 'package:webdirectories/WebDirectories/Page1/Page1.dart';
 import 'package:webdirectories/myutility.dart';
 
 import '../../../models/storedUser.dart';

@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:webdirectories/WebDirectories/Page7/GetinTouch/GetinTouchComponents/TextFormField.dart';
-import 'package:webdirectories/WebDirectories/Page3/OurStory/OurSotryComponents/OvalTextButton.dart';
+import 'package:webdirectories/PanelBeatersDirectory/desktop/components/GetinTouchComponents/TextFormField.dart';
+import 'package:webdirectories/PanelBeatersDirectory/desktop/components/OurSotryComponents/OvalTextButton.dart';
 import 'package:webdirectories/myutility.dart';
-
 import '../../../emails/getInTouch/sendGetInTouch.dart';
 import '../../components/descriptionDialog.dart';
 

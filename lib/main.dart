@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
         routeInformationParser: _router.routeInformationParser,
         routeInformationProvider: _router.routeInformationProvider,
         routerDelegate: _router.routerDelegate,
-        title: 'Web Directories',
+        title: 'Panel Beater Directory',
       ),
     );
   }

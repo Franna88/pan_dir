@@ -1,32 +1,32 @@
 {
-  "name": "webdirectories",
-  "short_name": "webdirectories",
+  "name": "panelbeaters",
+  "short_name": "panelbeaters",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
-  "description": "Web Directories is your go-to platform for automotive business visibility. Connect with customers through comprehensive profiles in our niche directories.",
+  "description": "Panel Beaters Directory is a unique and proudly South African initiative to promote the professional image of the modern Repair Specialist aka Panelbeater.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icons/web-app-manifest-192x192.png",
+      "src": "icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/web-app-manifest-512x512.png",
+      "src": "icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icons/web-app-manifest-192x192.png",
+      "src": "icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "icons/web-app-manifest-512x512.png",
+      "src": "icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
