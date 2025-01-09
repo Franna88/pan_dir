@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "web-directories"
-  }
+  },
+  "targets": {
+    "web-directories": {
+      "hosting": {
+        "panelbeaters": [
+          "panelbeaters-directory"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
