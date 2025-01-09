@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /owners-portal/
+Sitemap: https://webdirectories.co.za/sitemap.xml

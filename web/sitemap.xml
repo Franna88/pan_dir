@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url>
+    <loc>https://www.webdirectories.co.za/</loc>
+  </url>
+
+  <!-- Panelbeaters Home -->
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters</loc>
+  </url>
+
+  <!-- Static Routes for Panelbeaters -->
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/listings-near-me</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/listings-by-area</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/listings-keyword</loc>
+  </url>
+
+  <!-- Panelbeaters Portal Routes -->
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/login</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/register</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/verify-code</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/create-profile</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/membership-options</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/agreement</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/whats-next</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/reset-otp</loc>
+  </url>
+  <url>
+    <loc>https://www.webdirectories.co.za/panelbeaters/reset-password</loc>
+  </url>
+</urlset>
